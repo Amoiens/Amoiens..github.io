@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>海绵宝宝一样的存在——他们是？？</title>
+  <style type="text/css">
+body{
+		padding:0px;
+		margin:0px;
+  div{
+			width:1152px;
+			height:720px;
+			background:url(2.jpeg) no-repeat;}
+			p{text-align:right;
+		font-size:20px;
+		line-height:200%;
+		text-indent:100%;
+		letter-spacing:normal;
+		word-spacing:20px;
+			}
+			.a{width:300px;
+		height:300px;
+		background:green;
+		position:relative;
+		left:10px;
+		top:10px;}
+  </style>
+ </head>
+ <body>
+ <center>
+ <h1>Do you want to know the stories of three cute bears？</h1>
+ <h2>你想知道三只萌贱的小熊的故事吗？</h2>
+<hr><hr size="5" width="1152" align="center" color=#cc0000>
+<hr><hr size="5" width="1152" align="center" color=#ff9900>
+<hr><hr size="5" width="1152" align="center" color=#ffff66>
+<hr><hr size="5" width="1152" align="center" color=#99ff00>
+<hr><hr size="5" width="1152" align="center" color=#33ffff>
+<hr><hr size="5" width="1152" align="center" color=#0099ff>
+<hr><hr size="5" width="1152" align="center" color=#9933ff>
+ </center>
+ <div></div>
+<div class="a"><p>《We Bare Bears》是Cartoon Network于2015年7月推出的电视卡通改编自Daniel Chong创作的网络漫画《The Three Bare Bears》讲述一只叫Grizzly的热血灰熊、一只叫Panda的死宅熊猫、一只叫Ice Bear的高冷北极熊，这三只熊的日常生活故事。</p></div>
+  
+ </body>
+</html>
